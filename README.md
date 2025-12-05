@@ -1,2 +1,1 @@
-# AIT
-Artificial Intelligence Techniques
+
